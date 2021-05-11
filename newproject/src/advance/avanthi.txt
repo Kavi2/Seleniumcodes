@@ -1,0 +1,1 @@
+{"Special Qualifications":["Magnetic eyes","Power"],"Age":5,"Name":"Avanthi"}

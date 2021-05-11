@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Suite">
+<listeners>
+<listener class-name="testNG.ListenersExample">
+</listener>
+</listeners>
+
+<test name="Test Case">
+
+
+<classes>
+<class name="testNG.SampleTestCase"></class>
+ <!-- <class name="testNG.DriveACar"></class>
+<class name="testNG.SampleTestCase"></class> --> 
+
+</classes>
+
+</test>
+
+</suite>
